@@ -1,0 +1,4 @@
+println "settings.gradle start"
+/** include 为groovy的方法，参数字符串序列*/
+include ':app'
+println "settings.gradle end"
